@@ -1,2 +1,19 @@
 # Intership
-Prasun
+### 20 Dec 21
+- Learn working of Company and idea about my project.
+- Learn about the tools to be used in project.
+- Learn the basic about GitHub.
+
+### 21 Dec 21
+- Completed task to learn push and pull request in GitHub.
+- Completed task to make documentation for installing "Git".
+- Start learning about "Qt 5".
+
+### 22 Dec 21
+ - Complete task to make documentation for installing "Qt".
+ - Learn about "Qt 5" cource till video no 12.
+
+### 23 Dec 21
+ - Complete task to know about GitHub Actions.
+- How GitHub Action is useful for our future project work.
+- Learn how to make GitHub Action. 

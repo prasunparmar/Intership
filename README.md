@@ -21,3 +21,8 @@
 ### 24 Dec 21
   - Implemented codespell Github Action in "Intern-Dec-2021" repository.
   - Made document of steps to make codespell github action.
+
+### 27 Dec 21
+  - Documentation of "How to build MySegmenter"
+  - Build MySegmenter in my computer system.
+  - Learn about CI github action of slicer.

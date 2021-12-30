@@ -26,3 +26,11 @@
   - Documentation of "How to build MySegmenter"
   - Build MySegmenter in my computer system.
   - Learn about CI github action of slicer.
+  
+### 28 Dec 21
+  - Demo of Mimics software.
+  - Learn about Jira Software.
+
+### 29 Dec 21
+  - Add Functionality to file open button in left toolbar.
+  - Working on remove top toolbar.

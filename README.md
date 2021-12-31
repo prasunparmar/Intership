@@ -34,3 +34,12 @@
 ### 29 Dec 21
   - Add Functionality to file open button in left toolbar.
   - Working on remove top toolbar.
+
+### 30 Dec 21
+  - Working on add functionality to segmentation button
+  - Working on remove top toolbar.
+  
+### 31 Dec 21 
+  - Task completed of adding functionality to segmentation button
+  - Working on functionality to measurement button
+  - Completed task of add codespell in MYS repository.

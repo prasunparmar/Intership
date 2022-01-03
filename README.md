@@ -43,3 +43,7 @@
   - Task completed of adding functionality to segmentation button
   - Working on functionality to measurement button
   - Completed task of add codespell in MYS repository.
+
+### 3 Jan 22
+  - Working on ci github action.
+  - Completed task of adding functionality in measurement button.

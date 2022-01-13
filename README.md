@@ -47,3 +47,29 @@
 ### 3 Jan 22
   - Working on ci github action.
   - Completed task of adding functionality in measurement button.
+
+### 4 Jan 22
+  - Completed task of "Reset focal point 3DView"
+
+### 5 Jan 22
+  - working on "add sidetoolbar functionality"
+
+### 6 Jan 22
+  - working on "add sidetoolbar functionality"
+
+### 7 Jan 22
+  - working on "add slider right side"
+  - work done on "add sidetoolbar functionality"
+
+### 10 Jan 22
+  - working on "add slider right side"
+
+### 11 Jan 22
+  - Taken sick leave.
+
+### 12 Jan 22
+  - Learn Qt course furthur.
+
+### 13 Jan 22
+  - working on task "MYS-51 module panel size"
+  - work done on task "MYS-51"

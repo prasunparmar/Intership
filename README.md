@@ -73,3 +73,23 @@
 ### 13 Jan 22
   - working on task "MYS-51 module panel size"
   - work done on task "MYS-51"
+  
+### 17 Jan 22
+  - Working on task "MYS-59 remove open and save button"
+  - Work done on task "MYS-59"
+### 18 Jan 22
+  - Working on task "MYS-60 Remove Segmentation master and master volume"
+  - Work done on task "MYS-60" 
+  - Working on task "MYS-61"
+### 19 Jan 22
+  - Working on task "MYS-61"
+  - Working on task "MYS-66 unable to add segment after loading"
+  - Work done on task "MYS-61"
+
+### 20 Jan 22
+### 21 Jan 22
+### 24 Jan 22
+### 25 Jan 22
+### 27 Jan 22
+### 28 Jan 22
+### 31 Jan 22

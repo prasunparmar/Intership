@@ -87,9 +87,15 @@
   - Work done on task "MYS-61"
 
 ### 20 Jan 22
+  - Working on bug "MYS-66"
 ### 21 Jan 22
+  - Working on bug "MYS-66"
 ### 24 Jan 22
+  - Working on bug "MYS-66"
 ### 25 Jan 22
+  - Working on bug "MYS-66"
+  - Working on task "MYS-67"
+  - Completed task of "MYS-67"
 ### 27 Jan 22
 ### 28 Jan 22
 ### 31 Jan 22

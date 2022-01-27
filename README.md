@@ -97,5 +97,6 @@
   - Working on task "MYS-67"
   - Completed task of "MYS-67"
 ### 27 Jan 22
+  - Working on task "MYS-39" add crosshair globaly
 ### 28 Jan 22
 ### 31 Jan 22

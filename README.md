@@ -98,5 +98,18 @@
   - Completed task of "MYS-67"
 ### 27 Jan 22
   - Working on task "MYS-39" add crosshair globaly
-### 28 Jan 22
+
 ### 31 Jan 22
+  - Task completed on "MYS-39"
+### 1 Feb 22
+  - Done building app as per Lasso guidence
+### 2 Feb 22
+  - Working on ui through templete
+### 3 Feb 22
+  - Working on ui through templete
+### 4 Feb 22
+### 7 Feb 22
+### 8 Feb 22
+### 9 Feb 22
+### 10 Feb 22
+### 11 Feb 22

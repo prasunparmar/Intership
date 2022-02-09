@@ -108,8 +108,13 @@
 ### 3 Feb 22
   - Working on ui through templete
 ### 4 Feb 22
+  - Working on How to add custom toolbar
 ### 7 Feb 22
+  - Modify Toptoolbar as per developer "DEv-8"
+  - Change module pannel size and property "DEV-11"
 ### 8 Feb 22
+  - working on Rearrange Segmentation Module "Dev-14"
 ### 9 Feb 22
+  - work done on "DEV-14"
 ### 10 Feb 22
 ### 11 Feb 22

@@ -117,4 +117,26 @@
 ### 9 Feb 22
   - work done on "DEV-14"
 ### 10 Feb 22
+  - working on DEV-40 "Segmentation Fill 2D & 3D" 
 ### 11 Feb 22
+  - working on DEV-40 "Segmentation Fill 2D & 3D"
+### 14 Feb 22
+  - working on DEV-40 "Segmentation Fill 2D & 3D"
+### 15 Feb 22
+  - working on DEV-40 "Segmentation Fill 2D & 3D"
+### 16 Feb 22
+  - work done DEV-40 
+  - Working on DEV-32 "Create Settings Module" 
+### 17 Feb 22
+  - working on DEV-33 "settings: Interpolate true/false"
+  - Fix bug in setting module
+### 18 Feb 22
+  - working on DEV-33 "settings: Interpolate true/false"
+  - fix bug in "Segmentation fill"
+### 21 Feb 22
+### 22 Feb 22
+### 23 Feb 22
+### 24 Feb 22
+### 25 Feb 22
+### 28 Feb 22
+

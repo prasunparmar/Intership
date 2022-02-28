@@ -134,9 +134,19 @@
   - working on DEV-33 "settings: Interpolate true/false"
   - fix bug in "Segmentation fill"
 ### 21 Feb 22
+  - work done on DEV-33
+  - working on default masking setting "dev-55"
 ### 22 Feb 22
+  - working on default masking setting "dev-55"
+  - working on shortcut of "zoom"
 ### 23 Feb 22
+  - working on default masking setting "dev-55"
+  - working on shortcut of "zoom"
 ### 24 Feb 22
+  - working on default masking setting "dev-55"
+  - working on shortcut of small descrepte steps
 ### 25 Feb 22
+  - working on "dev-55"
+  - working on "dev-68" to modification of MysSegmentation Layout
 ### 28 Feb 22
-
+  - Work done on "dev-68"
